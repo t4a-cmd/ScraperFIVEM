@@ -23,5 +23,4 @@ python install_modules.py
 
 🎉 Enjoy using the tool!
 
-For support, join our Discord server:  
-🔗https://discord.gg/t4a
+For support, dm @t4a on discord
